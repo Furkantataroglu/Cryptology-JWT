@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AAC38A-2A81-483B-822C-F47ADA1FDFE2}|API\\API.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AAC38A-2A81-483B-822C-F47ADA1FDFE2}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66BFA0E-E2F8-43E2-8631-004427411976}|Entities\\Entities.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\entities\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66BFA0E-E2F8-43E2-8631-004427411976}|Entities\\Entities.csproj|solutionrelative:entities\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AAC38A-2A81-483B-822C-F47ADA1FDFE2}|API\\API.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AAC38A-2A81-483B-822C-F47ADA1FDFE2}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714DCF72-7FF0-43CE-B7E5-4E5E0FE8D133}|Shared\\Shared.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\shared\\data\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714DCF72-7FF0-43CE-B7E5-4E5E0FE8D133}|Shared\\Shared.csproj|solutionrelative:shared\\data\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714DCF72-7FF0-43CE-B7E5-4E5E0FE8D133}|Shared\\Shared.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\shared\\data\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714DCF72-7FF0-43CE-B7E5-4E5E0FE8D133}|Shared\\Shared.csproj|solutionrelative:shared\\data\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\services\\concrete\\userservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|solutionrelative:services\\concrete\\userservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\services\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|solutionrelative:services\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66BFA0E-E2F8-43E2-8631-004427411976}|Entities\\Entities.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66BFA0E-E2F8-43E2-8631-004427411976}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66BFA0E-E2F8-43E2-8631-004427411976}|Entities\\Entities.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\entities\\dtos\\productadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66BFA0E-E2F8-43E2-8631-004427411976}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\services\\concrete\\productservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|solutionrelative:services\\concrete\\productservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714DCF72-7FF0-43CE-B7E5-4E5E0FE8D133}|Shared\\Shared.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\shared\\utilities(ara\u00E7lar)\\concrete\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714DCF72-7FF0-43CE-B7E5-4E5E0FE8D133}|Shared\\Shared.csproj|solutionrelative:shared\\utilities(ara\u00E7lar)\\concrete\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E16EF5-9AAB-4758-9841-EFBC3485A9AD}|DAL_DataAccessLayer\\DAL_DataAccessLayer.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\dal_dataaccesslayer\\migrations\\20240812072016_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E16EF5-9AAB-4758-9841-EFBC3485A9AD}|DAL_DataAccessLayer\\DAL_DataAccessLayer.csproj|solutionrelative:dal_dataaccesslayer\\migrations\\20240812072016_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66BFA0E-E2F8-43E2-8631-004427411976}|Entities\\Entities.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\entities\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66BFA0E-E2F8-43E2-8631-004427411976}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|solutionrelative:services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|c:\\users\\furka\\desktop\\g201210089\\wep api project\\services\\automapper\\profiles\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF501A74-4EA1-4311-8872-DBDC73A62010}|Services\\Services.csproj|solutionrelative:services\\automapper\\profiles\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Entities\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Entities\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Entities\\Service\\TokenService.cs",
+              "RelativeToolTip": "Entities\\Service\\TokenService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:13:30.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:01:54.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Shared\\Data\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\Concrete\\ProductServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Concrete\\ProductServiceManager.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\Concrete\\ProductServiceManager.cs",
+              "RelativeToolTip": "Services\\Concrete\\ProductServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\Concrete\\UserServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Concrete\\UserServiceManager.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\Concrete\\UserServiceManager.cs",
+              "RelativeToolTip": "Services\\Concrete\\UserServiceManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Entities\\Dtos\\ProductAddDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\ProductAddDto.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Entities\\Dtos\\ProductAddDto.cs",
+              "RelativeToolTip": "Entities\\Dtos\\ProductAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Services\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataResult.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Shared\\Utilities(ara\u00E7lar)\\Concrete\\DataResult.cs",
+              "RelativeDocumentMoniker": "Shared\\Utilities(ara\u00E7lar)\\Concrete\\DataResult.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Shared\\Utilities(ara\u00E7lar)\\Concrete\\DataResult.cs",
+              "RelativeToolTip": "Shared\\Utilities(ara\u00E7lar)\\Concrete\\DataResult.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Entities\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Entities\\Concrete\\Product.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Shared\\Data\\Abstract\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Shared\\Data\\Abstract\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Shared\\Data\\Abstract\\IEntityRepository.cs",
+              "RelativeToolTip": "Shared\\Data\\Abstract\\IEntityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240812072016_2.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\DAL_DataAccessLayer\\Migrations\\20240812072016_2.cs",
+              "RelativeDocumentMoniker": "DAL_DataAccessLayer\\Migrations\\20240812072016_2.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\DAL_DataAccessLayer\\Migrations\\20240812072016_2.cs",
+              "RelativeToolTip": "DAL_DataAccessLayer\\Migrations\\20240812072016_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:30:26.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Entities\\Dtos\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Entities\\Dtos\\ProductUpdateDto.cs",
+              "RelativeToolTip": "Entities\\Dtos\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Services\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\AutoMapper\\Profiles\\ProductMappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\AutoMapper\\Profiles\\ProductMappingProfile.cs",
+              "ToolTip": "C:\\Users\\furka\\Desktop\\G201210089\\Wep API Project\\Services\\AutoMapper\\Profiles\\ProductMappingProfile.cs",
+              "RelativeToolTip": "Services\\AutoMapper\\Profiles\\ProductMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:26:44.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
